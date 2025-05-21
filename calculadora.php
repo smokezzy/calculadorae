@@ -3,11 +3,11 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>cauculadora</title>
+        <title>calculadora</title>
     </head>
     <body>
         <form method="post">
-            <h1>cauculadora</h1>
+            <h1>calculadora</h1>
             <label for="email"> digite o primeiro numero</label>
             <br>
             <input type="text" id="numero1" name="numero1" required>
